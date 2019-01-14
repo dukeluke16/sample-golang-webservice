@@ -1,0 +1,9 @@
+[{
+    "code": "US",
+    "alert": "Mit Abschluss dieser Buchung stimmen Sie den Tarifbedingungen und -einschränkungen sowie der Gefahrstoffrichtlinie zu.",
+    "title": "Gefahrgutbeschränkungen",
+    "body": [
+        "Die Beförderung von Gefahrgut an Bord von Flugzeugen im Gepäck oder am Passagier ist gesetzlich verboten. Ein Verstoß gegen dieses Verbot kann hohe Strafen zur Folge haben (in den USA gemäß 49 U.S.C. 5124 fünf Jahre Haft und Geldstrafen von 250.000 $ oder mehr). Als Gefahrgut gelten Sprengstoffe, komprimierte Gase, brennbare Flüssigkeiten und Feststoffe, Oxidationsmittel, Gifte, Korrosionsmittel und radioaktive Materialien. Beispiele: Farben, Feuerzeugbenzin, Feuerwerk, Tränengas, Sauerstoffflaschen und Radiopharmaka.",
+        "Es gibt spezielle Ausnahmen für kleine Mengen (insgesamt maximal ca. 1,9 kg) Arzneimittel und Körperpflegeartikel im Gepäck sowie für bestimmte Rauchutensilien am Passagier. Weitere Informationen erhalten Sie von Ihrer Fluglinie."
+    ]
+}]

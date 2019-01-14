@@ -1,0 +1,9 @@
+[{
+    "code": "US",
+    "alert": "Al efectuar esta reserva, manifiesta que está conforme con las restricciones y reglas de tarifas, así como con la política de productos peligrosos.",
+    "title": "Restricciones de materiales peligrosos",
+    "body": [
+        "Las leyes federales prohíben el transporte de materiales peligrosos a bordo del avión, en el equipaje o en su cuerpo. Cualquier infracción de estas leyes puede tener como consecuencia penas de 5 años de cárcel y multas de 250 000 $ o más (49 U.S.C. 5124). Se consideran materiales peligrosos los siguientes: explosivos, gases comprimidos, líquidos y sólidos inflamables, así como materiales oxidantes, venenosos, corrosivos y radioactivos. Ejemplos: Pinturas, líquidos para encender fuego, materiales pirotécnicos, gases lacrimógenos, botellas de oxígeno y radiofármacos.",
+        "Como excepciones especiales, se permite llevar pequeñas cantidades (hasta 1'98 kg en total) de productos médicos y artículos de aseo personal en la maleta y ciertos materiales para fumar que lleve personalmente. Para obtener más información, póngase en contacto con un representante de la línea aérea."
+    ]
+}]

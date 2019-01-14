@@ -1,0 +1,9 @@
+[{
+    "code": "US",
+    "alert": "Preenchendo esta reserva você concorda com as regras de tarifa e com as restrições e políticas de materiais perigosos vigentes.",
+    "title": "Restrições para Materiais Perigosos",
+    "body": [
+        "A lei federal proíbe o transporte de materiais perigosos a bordo de aeronaves na bagagem ou com a pessoa. Um violação pode resultar em cinco anos de prisão e multa de US$ 250.000,00 ou mais (49 U.S.C. 5124). Materiais perigosos incluem explosivos, gases comprimidos, líquidos e sólidos inflamáveis, oxidantes, venenos, substâncias corrosivas e materiais radioativos. Exemplos: Tintas, fluido de isqueiro, fogos de artifício, gases lacrimogêneos, garrafas de oxigênio e produtos radiofarmacêuticos.",
+        "Há exceções especiais para pequenas quantidades (até 70 onças no total) de artigos medicinais e de higiene pessoal, carregados em sua bagagem, e também alguns materiais de fumo carregados com a própria pessoa. Para obter mais informações, entre em contato com um representante da sua companhia aérea."
+    ]
+}]

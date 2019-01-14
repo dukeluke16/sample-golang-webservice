@@ -1,0 +1,9 @@
+[{
+    "code": "US",
+    "alert": "En validant cette réservation, vous acceptez les règles tarifaires et les restrictions, ainsi que la politique sur les marchandises dangereuses.",
+    "title": "Restrictions pour substances dangereuses",
+    "body": [
+        "La loi fédérale interdit le transport de substances dangereuses à bord des avions sur soi ou dans les bagages. Le non-respect de la réglementation en vigueur peut entraîner un emprisonnement de 5 ans et une amende de 250 000 dollars minimum (49 U.S.C. 5124). Les substances dangereuses comprennent les explosifs, les gaz comprimés, les liquides et solides inflammables, les oxydants, les poisons, les produits corrosifs et les matériaux radioactifs. Exemples : peintures, allume-feux liquides, feux d'artifice, gaz lacrymogènes, bouteilles d'oxygène et médicaments radiopharmaceutiques.",
+        "Des exceptions spéciales existent pour les petites quantités (moins de 2 kilos) d'articles de toilette et médicinaux transportés dans vos bagages et pour certains produits pour fumeurs transportés sur vous-même. Pour en savoir plus, contactez le représentant de votre compagnie aérienne."
+    ]
+}]

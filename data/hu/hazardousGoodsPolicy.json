@@ -1,0 +1,9 @@
+[{
+    "code": "US",
+    "alert": "A foglalás befejezésével kijelenti, hogy elfogadja a tarifaszabályzatot és a korlátozásokat, továbbá a veszélyes anyagok szállítására vonatkozó szabályzatot.",
+    "title": "Veszélyes anyagokra vonatkozó korlátozások",
+    "body": [
+        "Az USA szövetségi törvényei tiltják a veszélyes anyagok felvitelét repülőgépekre, illetve a veszélyes anyagok légi szállítását, mind poggyászban, mind az emberi testen és testben. A törvény megsértése 5 évig terjedő szabadságvesztéssel, továbbá legalább 250000 USD összegű büntetéssel jár (az USA törvénykönyvének 49. fejezete, 5124. cikkely). Veszélyes anyagnak minősülnek a robbanóanyagok, a sűrített gázok, a gyúlékony folyadékok és más gyúlékony anyagok, az oxidálószerek, a mérgek, a maró hatású és a radioaktív anyagok. Néhány példa: festékek, tűzfokozó folyadékok, tűzijátékok, könnygázok, oxigénnel töltött palackok és radioaktív gyógyszerek.",
+        "A poggyászokban szállított kis mennyiségű gyógyszerek és piperecikkek, illetve az utasnál lévő egyes dohánycikkek kivételt képeznek, amennyiben össztömegük nem haladja meg a 70 unciát – kb. 1900 grammot. A légitársaságok munkatársaitól részletesebb felvilágosítást is kérhet."
+    ]
+}]

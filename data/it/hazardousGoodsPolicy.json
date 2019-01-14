@@ -1,0 +1,9 @@
+[{
+    "code": "US",
+    "alert": "Completando questa prenotazione, si accettano le regole e le limitazioni sulle tariffe e sul trasporto di merci pericolose.",
+    "title": "Restrizioni su materiali pericolosi",
+    "body": [
+        "La legge federale vieta il trasporto di materiali pericolosi a bordo del velivolo, nella valigia o con sé. La violazione della legge è un reato punibile con fino a 5 anni di reclusione e multe a partire da 250.000 $ (49 U.S.C. 5124). Sono considerati materiali pericolosi: esplosivi, gas compressi, liquidi e solidi infiammabili, ossidanti, veleni, materiali corrosivi e radioattivi. Esempi: vernici, fluidi per accenditi, fuochi d'artificio, gas lacrimogeni, contenitori di ossigeno e radiofarmaci.",
+        "Sono previste delle eccezioni per piccole quantità (fino a circa 2 kg totali) di medicine e articoli per l'igiene personale che possono essere trasportate nel proprio bagaglio e di materiali per fumare con sé. Per ulteriori informazioni contattare il rappresentante della compagnia aerea."
+    ]
+}]
